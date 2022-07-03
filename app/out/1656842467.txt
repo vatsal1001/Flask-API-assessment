@@ -1,0 +1,32 @@
+
+                         DEFEAT THANOS                          
+
+ID = 1656842467
+Created on 2022-07-03 15:31:07.135022
+
+collect the infinity stones
+
+Belongs to team: The Avengers
+Admin: tony stark
+
+                       BOARD STATUS: OPEN                       
+
+---------- OPEN TASKS ----------
+
+[ ] Collect the time stone
+	- Steal the time stone from doctor strange
+	- Assigned to: tony stark
+
+------ IN_PROGRESS TASKS -------
+
+[o] Collect the space stone
+	- Defeat galactic villain and retrieve the space stone
+	- Assigned to: steve rogers
+
+------- COMPLETED TASKS --------
+
+[X] Collect the mind stone
+	- Defeat Loki and take the mind stone back
+	- Assigned to: tony stark
+
+1 out of 3 tasks are completed
