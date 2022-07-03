@@ -214,7 +214,8 @@ Admin: tony stark
 - I have tried to add RESTful APIs wherever it was appropriate to add them. However, the given task's API constraints resulted in input conditions not matching the required methodology. Given additional time I'm sure the functions could be modified to match this criteria as well
 - I have worked with the assumption that this is a single-threaded application which will be run directly by one end user, who will interact with the API and give commands one after the other and not concurrently
 - Given the above, I have made use of the UNIX timestamp for the  ID values in user, team, board and task
-- The database used for this application is sqlite, since it is a lightweight and in-built database with local file storage 
+- The database used for this application is sqlite, since it is a lightweight and in-built database with local file storage
+- There was some ambiguity in the case of the `ProjectBoardBase` class, mainly in the `create_board()` and `add_task()` functions. I have considered it to match the format followed in the previous base classes to remove this ambiguity. 
 
 ## Future Improvements
 
